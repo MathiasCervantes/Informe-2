@@ -1,0 +1,103 @@
+.tituloxd{
+    text-align: center;
+    
+}
+
+.momosxd{
+    text-align: center;
+}
+
+.somosxd{
+    text-align: center;
+}
+
+.imagessenati{
+    width: 720px;
+    left: auto;
+}
+
+.imagessenatilima{
+    width: 420px;
+}
+
+.footer{
+    text-align: center;
+    background: #373737;
+    position: relative;
+    padding: 50px 50px;
+    flex-direction: column;
+   
+}
+
+.text{
+    text-align: center;
+    text-shadow: white;
+    color: #c7c7c7;
+}
+
+.btono{
+    align-items: center;
+    text-align: center;
+}
+
+.col{
+    padding: 20px 70px;
+}
+.footer{
+    text-align: center;
+    background: #373737;
+    position: relative;
+    padding: 40px 50px;
+    flex-direction: column;
+}
+
+.text{
+    text-align: center;
+    text-shadow: white;
+    color: #c7c7c7;
+}
+
+.ubis{
+    text-align: center;
+}
+
+.aqp{
+    text-align: center;
+    
+}
+
+.lima{
+    text-align: center;
+}
+
+.ilo{
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    background: #373737;
+    position: relative;
+    padding: 20px 50px;
+    flex-direction: column;
+}
+
+.text{
+    text-align: center;
+    text-shadow: white;
+    color: #c7c7c7;
+}
+
+.footer{
+    text-align: center;
+    background: #373737;
+    position: relative;
+    padding: 20px 50px;
+    flex-direction: column;
+}
+
+.text{
+    text-align: center;
+    text-shadow: white;
+    color: #c7c7c7;
+}
